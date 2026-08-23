@@ -908,10 +908,10 @@ const TERM_COMMANDS = {
     return `<span class="hl">Industry Coverage</span>\n${INDUSTRIES.map(i=>`  ${i.icon}  ${i.name}`).join('\n')}\n\nDelivered enterprise Salesforce programs across all 5 verticals.`;
   },
   contact(){
-    return `<span class="hl">Contact Information</span>\n\n<span class="acc">Email:</span>    bader.elkhal@email.com\n<span class="acc">LinkedIn:</span> linkedin.com/in/bader-eddine-elkhal-salesforce-consultant\n<span class="acc">Status:</span>   <span class="warn">Available for Enterprise Projects</span>`;
+    return `<span class="hl">Contact Information</span>\n\n<span class="acc">Email:</span>    bader7186@gmail.com\n<span class="acc">LinkedIn:</span> linkedin.com/in/bader-eddine-elkhal-salesforce-consultant\n<span class="acc">Status:</span>   <span class="warn">Available for Enterprise Projects</span>`;
   },
   hire(){
-    return `<span class="hl">Engagement Summary</span>\n\nBader is available for:\n  · Enterprise architecture programs\n  · Multi-cloud Salesforce implementations\n  · Integration design & delivery\n  · Technical leadership & mentoring\n  · Architectural governance & review\n\n<span class="acc">Availability:</span> Immediate\n<span class="acc">Locations:</span>   Remote + On-site (global)\n<span class="acc">Contact:</span>     bader.elkhal@email.com`;
+    return `<span class="hl">Engagement Summary</span>\n\nBader is available for:\n  · Enterprise architecture programs\n  · Multi-cloud Salesforce implementations\n  · Integration design & delivery\n  · Technical leadership & mentoring\n  · Architectural governance & review\n\n<span class="acc">Availability:</span> Immediate\n<span class="acc">Locations:</span>   Remote + On-site (global)\n<span class="acc">Contact:</span>     bader7186@gmail.com`;
   },
   clear(){
     document.getElementById('term-body').innerHTML='';
